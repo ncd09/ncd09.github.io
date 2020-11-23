@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1606145143 source:e:\work\main.cpp
+	<iostream>
+	<Harry.h>
+	<Hermione.h>
+	<Ginny.h>
+	<Ron.h>
+
+1606145144 source:e:\work\src\hero.cpp
+	"Hero.h"
+	<cmath>
+
+1606145144 e:\work\include\hero.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1606143510 source:e:\work\src\harry.cpp
+	"Harry.h"
+
+1606143446 e:\work\include\harry.h
+	<Hero.h>
+
+1606122871 source:e:\work\src\ron.cpp
+	"Ron.h"
+
+1606121966 e:\work\include\ron.h
+	<Hero.h>
+
+1606142002 source:e:\work\src\ginny.cpp
+	"Ginny.h"
+	<algorithm>
+
+1606142002 e:\work\include\ginny.h
+	<Hero.h>
+
+1606123311 source:e:\work\src\hermione.cpp
+	"Hermione.h"
+	<algorithm>
+
+1606123311 e:\work\include\hermione.h
+	<Hero.h>
+
